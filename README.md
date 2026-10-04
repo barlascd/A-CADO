@@ -53,3 +53,4 @@ extras/       Vulkan renderer interface sketch (not built)
 - Viewport is a CPU/QPainter renderer (fine for moderate models); the Vulkan renderer is only an interface sketch.
 - Mates: only Coincident and Distance are implemented. The Gizmo class exists but is not wired to the UI yet.
 - Imported STEP bodies are stored by file path in project files.
+- Tested on Ubuntu 24.04 only
