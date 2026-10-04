@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="WhatsApp Image 2026-09-27 at 11 24 15" src="https://github.com/user-attachments/assets/dfb4d8c5-915a-4953-a8e8-83bd336f66a1" />
 # AICADO
 
 Parametric CAD application: **OpenCASCADE** (geometry) + **Qt Quick** (UI) + **Eigen** (math).
